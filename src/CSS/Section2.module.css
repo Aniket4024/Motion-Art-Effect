@@ -1,0 +1,25 @@
+#Section2{
+    height: auto;
+    position: absolute;
+    left: 9.5%;
+    right: 9.5%;
+    pointer-events: none;
+    width: 81%;
+    /* background-color: red; */
+    top: 95vh;
+
+    h3{
+        color: #EEE5FF;
+        margin: 0;
+        font-size: 2.9vh;
+        font-weight: 500;
+    }
+}
+#userRatings{
+    height: auto;
+    width: 100%;
+    justify-content: space-between;
+    /* background-color: green; */
+    margin-top: 8.5vh;
+
+}

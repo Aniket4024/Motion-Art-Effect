@@ -1,0 +1,37 @@
+#Section6{
+    height: auto;
+    position: absolute;
+    left: 9.5%;
+    right: 9.5%;
+    pointer-events: none;
+    width: 81%;
+    top: 375vh;
+
+    h1{
+        width: 55%;
+        margin: 0px auto;
+        font-size: 5vh;
+        font-family: "Sora", Sans-serif;
+        font-weight: 500;
+        color: #EEE5FF;
+        line-height: 8vh;
+    }
+
+    
+}
+#Section6>p{
+    margin:2vh auto 0px auto;
+    line-height: 3.5vh;
+    font-size: 2.3vh;
+    font-weight: 300;
+    color: #EEE5FFBD;
+    width: 50%;
+}
+
+#S6Bottom{
+    height: auto;
+    margin: 10vh 0px 15vh 0px;
+    width: 100%;
+    justify-content: space-between;
+    gap: 3vh;
+}

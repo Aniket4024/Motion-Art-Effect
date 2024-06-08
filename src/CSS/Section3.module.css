@@ -1,0 +1,61 @@
+#Section3{
+    height: auto;
+    position: absolute;
+    left: 9.5%;
+    right: 9.5%;
+    pointer-events: none;
+    width: 81%;
+    /* background-color: red; */
+    top: 136vh;
+    justify-content: space-between;
+
+}
+
+#S3Left{
+    width: 60%;
+    /* background-color: white; */
+    height: auto;
+    text-align: start;
+
+    h1{
+        font-size: 5vh;
+        font-weight: 500;
+        color: #EEE5FF;
+        font-family: "Sora", Sans-serif;
+        line-height:7.5vh;
+        margin: 0;
+    }
+    p{
+        color: #EEE5FFBD;
+        font-size: 2.3vh;
+        line-height: 3.5vh;
+        font-weight: 400;
+    }
+
+    button{
+        background-image: linear-gradient(90deg, #5E11FF 30%, #F87516 100%);
+        font-family: "Sora", Sans-serif;
+        padding: 2vh 5vh;
+        font-size: 2.5vh;
+        border: 0px;
+        border-radius: 3vh;
+        color: white;
+        font-weight: 300;
+        margin-top: 4.5vh;
+        pointer-events: auto;
+        cursor: pointer;
+        
+
+        span{
+            margin: 0.3vh 0px 0px 3vh;
+            font-size: 3vh;
+        }
+    }
+}
+
+#S3Right{
+    img{
+        width: 32vh;
+    }
+}
+

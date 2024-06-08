@@ -1,0 +1,35 @@
+.UserRatingCard{
+    height: 12vh;
+    /* background-color: white; */
+    width: auto;
+    justify-content: space-between;
+    /* background-color: pink; */
+    gap: 2vh;
+    
+    
+    
+    
+    p{
+        margin: 2vh 0px 0px 0px;
+        text-align: start;
+        color: #EEE5FFBD;
+        font-family: "Sora", Sans-serif;
+        font-size: 1.8vh;
+        font-weight: 400;
+        
+        span{
+            font-weight: 600;
+            font-family: "Sora", Sans-serif;
+        }
+    }
+}
+.UserRatingCard>img{
+    height: 11.3vh;
+    width: 11.3vh;
+    background-color: #141024;
+    border-radius: 100%;
+}
+.UserRatingCard>div>img{
+    width: 20vh;
+    margin-top: 1vh;
+}

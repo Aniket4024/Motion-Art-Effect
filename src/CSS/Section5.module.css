@@ -1,0 +1,33 @@
+#Section5{
+    height: auto;
+    position: absolute;
+    left: 9.5%;
+    right: 9.5%;
+    pointer-events: none;
+    width: 81%;
+    top: 317vh;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #0D061F 0%, #251E35 100%);
+    border: 0.3vh solid #FFFFFF10;
+    border-radius: 2.5vh;
+    padding: 6vh 0px;
+
+    h2{
+        color: #EEE5FF;
+        margin: 0;
+        font-weight: 500;
+        font-family: "Sora", Sans-serif;
+        font-size: 3.2vh;
+    }
+    p{
+        margin:2.6vh auto 4vh auto;
+        line-height: 3.5vh;
+        font-size: 2.3vh;
+        font-weight: 300;
+        color: #EEE5FFBD;
+        width: 37%;
+    }
+    img{
+        width: 57vh;
+    }
+}

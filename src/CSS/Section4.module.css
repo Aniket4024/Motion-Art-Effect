@@ -1,0 +1,35 @@
+#Section4{
+    height: auto;
+    position: absolute;
+    left: 9.5%;
+    right: 9.5%;
+    pointer-events: none;
+    width: 81%;
+    /* background-color: red; */
+    top: 189vh;
+
+
+    h1{
+        width: 55%;
+        margin: 0px auto;
+        font-size: 5vh;
+        font-family: "Sora", Sans-serif;
+        font-weight: 600;
+        color: #EEE5FF;
+        line-height: 8vh;
+    }
+}
+
+#S4Bottom{
+    margin: 9vh 0px 0px 0px;
+    height: auto;
+    width: 100%;
+    /* background-color: white; */
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 3vh;
+}
+#S4Bottom>div:nth-child(2){
+    margin-top:9vh;
+}
